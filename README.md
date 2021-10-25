@@ -1,3 +1,3 @@
 # GitHub-Followers
 
-My educational project. Using programmatic UI with UIKit, no storuboards.
+My educational project. Using programmatic UI with UIKit, no storyboards.
